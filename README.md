@@ -17,6 +17,6 @@ A simple C++ console application for managing student information and GPA.
 * Loops
 * Conditional Statements
 * Basic C++ Input/Output
----
+
 ## Author
 ~~ Ibrahim Elwan ~~
