@@ -122,7 +122,7 @@ int main()
              << gpas[i] << endl;
     }
 
-    // GPA statistics
+  
     cout << "\n========== GPA Statistics ==========\n";
 
     maxGPA(names, gpas, n);
